@@ -1,0 +1,32 @@
+html{
+    background-color: blue;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Vast Shadow', serif;
+}
+
+p{
+    font-size: 30px;
+}
+body{
+    background-color: orange;
+    border: 1ch solid black;
+    padding: 100px;
+    margin: 50px;
+}
+
+img{
+    width: 350px;
+    display: block;
+    margin: auto;
+}
+.al{
+    width: 500px;
+}
+.big-text{
+    font-size: 30px;
+}
+ul{
+    font-size: 30px;
+}
