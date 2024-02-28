@@ -16,7 +16,7 @@ body{
     margin: 50px;
 }
 
-img{
+.img{
     width: 350px;
     display: block;
     margin: auto;
@@ -29,4 +29,10 @@ img{
 }
 ul{
     font-size: 30px;
+}
+.image{
+    /* transform: scale(1.2); */
+    width: 1050px;
+    display: block;
+    margin: auto;
 }
